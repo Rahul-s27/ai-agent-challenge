@@ -52,7 +52,7 @@ The agent works in a self-correcting loop:
 
 [AI Agent Pipeline]
 
-<img src="flowchart.jpg" alt="AI Agent Pipeline" width="720">
+<img src="flowchart.jpg" alt="AI Agent Pipeline" width="480">
 
 
 
